@@ -1,0 +1,25 @@
+
+
+body{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+}
+.header{
+border: 2px solid white;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom: 5px;
+background-color: #7227D5;
+
+}
+.left-sidebar{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid white;
+    width: 300px;
+    height: 100vh;
+    padding: 10px;
+    background-color: #7227D5;
+ 
+}
